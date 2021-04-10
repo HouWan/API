@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "msg": "success",
+  "datas":[
+      {
+          "rate":"6.5",
+          "title":"哥斯拉大战金刚",
+          "url":"https://movie.douban.com/subject/26613692/",
+          "cover":"https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2634253484.webp",
+          "id":"26613692",
+          "type": "动作,科幻,冒险",
+          "date": "2021-03-26",
+          "desc": "这两位宛如神衹一般强大的对手于一场壮观的战争中相遇，彼时世界命运正悬于一线。为了找到真正的家园，金刚与他的保护者们踏上了一次艰难的旅程。"
+      },
+      {
+          "rate":"8.9",
+          "title":"扎克·施奈德版正义联盟",
+          "url":"https://movie.douban.com/subject/35076714/",
+          "cover":"https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2634360594.webp",
+          "id":"35076714",
+          "type": "动作,科幻,奇幻,冒险",
+          "date": "2021-03-18",
+          "desc": "布鲁斯·韦恩（本·阿弗莱克饰）为了确保不让超人（亨利·卡维尔饰）白白牺牲，他决定与戴安娜·普林斯（盖尔·加朵饰）联手并计划招募一支超能力者团队来保护世界免遭即将到来的灾难性威胁。"
+      }
+  ]
+}
