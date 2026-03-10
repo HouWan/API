@@ -1,0 +1,36 @@
+{
+    "game": true,
+    "list": [
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773122993008/252f6252830cd11de9f7eb3c43.webp",
+            "game": "https://yinxinghuan.github.io/whack-a-mole/",
+            "name": "Whack A Mole",
+            "player_number": 1256
+        },
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773123069123/52cb811d8d829bb1c88a5468b.webp",
+            "game": "https://yinxinghuan.github.io/flappy-bird/",
+            "name": "Flappy Bird",
+            "player_number": 1401
+        },
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773123156568/ed955ca0b9cfe15b0b56c04a5d1.webp",
+            "game": "https://yinxinghuan.github.io/memory-card/",
+            "name": "Memory Card",
+            "player_number": 1389
+        },
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773123237911/79c649ab1f1f9216608e62d780.webp",
+            "game": "https://yinxinghuan.github.io/convenience-store/",
+            "name": "Convenience Store",
+            "player_number": 1623
+        },
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773123304628/1df6b13f0af8eb2e204654e4360.webp",
+            "game": "https://yinxinghuan.github.io/bsod/",
+            "name": "BSOD",
+            "player_number": 1510
+        }
+    ]
+}
+
