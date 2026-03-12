@@ -14,6 +14,12 @@
             "player_number": 1211
         },
         {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773319170152/0ebaf80a5fe5015fbce0355c44f8d24c.webp",
+            "game": "https://yinxinghuan.github.io/pitch/",
+            "name": "PITCH",
+            "player_number": 1722
+        },
+        {
             "cover": "https://static.wdabuliu.com/prod/ag/1773123069123/52cb811d8d829bb1c88a5468b.webp",
             "game": "https://yinxinghuan.github.io/flappy-bird/",
             "name": "Flappy Bird",
