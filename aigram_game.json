@@ -2,10 +2,28 @@
     "game": true,
     "list": [
         {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773825171323/my-meme.webp",
+            "game": "https://yinxinghuan.github.io/my-meme/",
+            "name": "MY MEME",
+            "player_number": 1187
+        },
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773825325383/spot-diff-s2.webp",
+            "game": "https://yinxinghuan.github.io/spot-diff-s2/",
+            "name": "Spot the Difference II",
+            "player_number": 2108
+        },
+        {
+            "cover": "https://static.wdabuliu.com/prod/ag/1773825452192/spot-diff.webp",
+            "game": "https://yinxinghuan.github.io/spot-diff/",
+            "name": "Spot the Difference",
+            "player_number": 2211
+        },
+        {
             "cover": "https://static.wdabuliu.com/prod/ag/1773122993008/252f6252830cd11de9f7eb3c43.webp",
             "game": "https://yinxinghuan.github.io/whack-a-mole/",
             "name": "Whack A Mole",
-            "player_number": 1258
+            "player_number": 1260
         },
         {
             "cover": "https://static.wdabuliu.com/prod/ag/1773282670313/9cccc81b44621630a56b7.webp",
