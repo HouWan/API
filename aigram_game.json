@@ -2,6 +2,12 @@
     "game": true,
     "list": [
         {
+            "cover": "https://static.wdabuliu.com/prod/ag/1774343181488/ghostd9garden.webp",
+            "game": "https://yinxinghuan.github.io/ghost-garden/",
+            "name": "Ghost Garden",
+            "player_number": 1904
+        },
+        {
             "cover": "https://static.wdabuliu.com/prod/ag/1773825171323/my-meme.webp",
             "game": "https://yinxinghuan.github.io/my-meme/",
             "name": "MY MEME",
